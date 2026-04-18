@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Krishna</h1>
+
+<h3 I am Pranav Krishna, a technology enthusiast with a strong passion for software development and innovation. As a developer, I enjoy building practical solutions that solve real-world problems and improve user experiences. With a focus on writing efficient, scalable code and continuously learning new technologies, I aim to create impactful applications that streamline processes and add meaningful value.</h3>
+
 <h3 align="center">An undergraduate based in Chennai, India, with a strong interest in software development. I build responsive and user-friendly web interfaces while continuously improving my skills in programming and problem-solving.</h3>
 
 - 👨‍💻 Checkout my portfolio [https://pranav362k05.github.io/](https://pranav362k05.github.io/)
