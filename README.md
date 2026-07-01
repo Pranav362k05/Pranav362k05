@@ -1,12 +1,16 @@
-# Pranav Krishna Y
+# Pranav Krishna Y <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="75">&nbsp;
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-krishna-y-93a910288/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pranav-krishna-y-93a910288/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav362k05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:py5153@srmist.edu.in)
+[![Email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:pky20052023@gmail.com)
+[![Resume](https://img.shields.io/badge/resume-latest-green?style=plastic&label=Resume&link=https%3A%2F%2Fdeeptejd.github.io%2Fresume)](https://pranav362k05.github.io/resume/)
 
----
 
-## About Me
+<p>
+  <b><font size="10">About Me</font></b>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">
+</p>
 
 - 🎓 Final Year CSE Student @ **SRMIST**, Chennai
 - 🏆 **RHCSA Certified** (Red Hat Certified System Administrator)
@@ -14,9 +18,8 @@
 - 🚀 Building scalable systems with **DevOps, Cloud & ML**
 - 💻 DevOps & Cybersecurity enthusiast 
 
----
 
-## Tech Stack
+## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -32,11 +35,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![RedHat](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
 
----
 
-## Featured Projects
-
-### Featured Projects
+## Featured Projects   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
 
 <table>
   <tr>
@@ -115,43 +115,61 @@
   </tr>
 </table>
 
----
 
-## Experience
+## Experience <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
 
-**AutoIntelli** — Cybersecurity Intern (Jun 2026 – Present)  
+**AutoIntelli Systems** — Cybersecurity Intern (Jun 2026 – Present)  
 Deployed GLPI, designed incident workflows, architected REST API integration
 
 **Securden Technologies** — Software Development Intern (Jul 2025)  
 Built Python/Django backend modules for enterprise PAM product
 
----
 
-## Certifications
+## Certifications <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
 
 - <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" />   Red Hat Certified System Administrator (RHCSA) — Mar 2026
 - <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />   Cisco Networking Basics — Nov 2025
 - <img src="https://img.shields.io/badge/NPTEL-005BAC?style=flat-square" />  NPTEL Machine Learning — Sep 2025
 
----
 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranav362k05/Pranav362k05/output/github-contribution-grid-snake.svg" /></center>
+  <img src="https://raw.githubusercontent.com/Pranav362k05/Pranav362k05/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-## GitHub Stats
+## GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-![Profile Views](https://github-readme-streak-stats.herokuapp.com?user=Pranav362k05&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav362k05&theme=tokyonight&hide_border=true" alt="Profile Views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pranav362k05&color=0077B5)
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranav362k05&color=0077B5"/>
+</p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=F85149&lines=Thanks+for+visiting!+✌️;:)" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=A66CFF&lines=Thanks+for+visiting!+✌️;:)" />
 </h3>
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/pranav-krishna-y-93a910288/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+  </a>
+  
+  <a href="https://github.com/Pranav362k05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  
+  <a href="mailto:pky20052023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <a href="https://pranav362k05.github.io/resume/">
+    <img src="https://img.shields.io/badge/Resume-Latest-green?style=plastic" alt="Resume">
+  </a>
+  
+</p>
