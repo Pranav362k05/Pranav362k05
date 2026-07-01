@@ -1,88 +1,157 @@
-<h1 align="center">Hi 👋, I'm Pranav Krishna</h1>
+# Pranav Krishna Y
 
-<h3 align="center"> I am Pranav Krishna, a technology enthusiast with a strong passion for software development and innovation. As a developer, I enjoy building practical solutions that solve real-world problems and improve user experiences. With a focus on writing efficient, scalable code and continuously learning new technologies, I aim to create impactful applications that streamline processes and add meaningful value.</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-krishna-y-93a910288/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav362k05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:py5153@srmist.edu.in)
 
-<h3 align="center">An undergraduate based in Chennai, India, with a strong interest in software development. I build responsive and user-friendly web interfaces while continuously improving my skills in programming and problem-solving.</h3>
+---
 
-- 👨‍💻 Checkout my portfolio [https://pranav362k05.github.io/](https://pranav362k05.github.io/)
+## About Me
 
-- 📫 How to reach me **pky20052023@gmail.com**
+- 🎓 Final Year CSE Student @ **SRMIST**, Chennai
+- 🏆 **RHCSA Certified** (Red Hat Certified System Administrator)
+- 🔬 Published ML research at **IEEE CONIT 2026**
+- 🚀 Building scalable systems with **DevOps, Cloud & ML**
+- 💻 DevOps & Cybersecurity enthusiast 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pranav-krishna-y-93a910288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-krishna-y-93a910288/" height="30" width="40" /></a>
-</p>
+---
 
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
-<td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></td>
-</tr>
-</table>
+## Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![RedHat](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Featured Projects
 
 <table>
-<tr>
-<td><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a></td>
-<td><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a></td>
-<td><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a></td>
-<td><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a></td>
-<td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a></td>
-<td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a></td>
-</tr>
-
-<tr>
-<td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a></td>
-<td><a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/></a></td>
-<td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a></td>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td>
-<td><a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></a></td>
-<td><a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a></td>
-<td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a></td>
-<td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/></a></td>
-</tr>
-
-<tr>
-<td><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a></td>
-<td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a></td>
-<td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a></td>
-<td><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a></td>
-<td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a></td>
-<td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a></td>
-
-<!-- empty cells to keep alignment -->
-<td></td>
-<td></td>
-<td></td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Placebo Response Prediction</h3>
+      <p align="center">
+        <a href="https://github.com/Pranav362k05/Placebo-Effect-project">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Machine learning framework for predicting placebo responsiveness using a 19-feature psychological and clinical dataset (~13,750 samples). Applied SMOTE, stratified 5-fold cross-validation, and compared Logistic Regression, Random Forest, and SVM models, achieving 82% accuracy and a ROC-AUC of 0.91 with Random Forest. Presented at IEEE CONIT 2026 (Accepted for Publication).
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Malar Manickam Baskets E-Commerce</h3>
+      <p align="center">
+        <a href="https://github.com/Pranav362k05/Malar-Manickam-Basket">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Full-stack e-commerce platform developed for a business client featuring a product catalogue, Razorpay payment integration, Google OAuth authentication, admin order management, and automated contact inquiry system. Responsible for end-to-end development from client requirements to deployment.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">End-to-End DevOps CI/CD Pipeline</h3>
+      <p align="center">
+        <a href="https://github.com/Pranav362k05/devops-virtual-lab">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Complete infrastructure automation project implementing Infrastructure as Code with Terraform, Kubernetes container orchestration, GitHub Actions CI/CD pipelines, and Ansible configuration management. Supports automated multi-environment deployments following DevOps best practices.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Clickbait Headline Detection (NLP)</h3>
+      <p align="center">
+        <a href="https://github.com/Pranav362k05/clickbait-detection-nlp-native">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Natural language processing application for detecting clickbait news headlines using TF-IDF feature extraction and multiple machine learning classifiers including Logistic Regression, Naive Bayes, and SVM. Includes an interactive Streamlit web interface for real-time predictions.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Experience
+
+**AutoIntelli** — Cybersecurity Intern (Jun 2026 – Present)  
+Deployed GLPI, designed incident workflows, architected REST API integration
+
+**Securden Technologies** — Software Development Intern (Jul 2025)  
+Built Python/Django backend modules for enterprise PAM product
+
+---
+
+## Certifications
+
+- <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" />   Red Hat Certified System Administrator (RHCSA) — Mar 2026
+- <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />   Cisco Networking Basics — Nov 2025
+- <img src="https://img.shields.io/badge/NPTEL-005BAC?style=flat-square" />  NPTEL Machine Learning — Sep 2025
+
+---
+
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+<p align="center">
+  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav362k05&" alt="pranav362k05" /></p>
+
+---
+
+## GitHub Stats
+
+![Profile Views](https://github-readme-streak-stats.herokuapp.com?user=Pranav362k05&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pranav362k05&color=0077B5)
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=F85149&lines=Thanks+for+visiting!+✌️;:)" />
+</h3>
