@@ -195,10 +195,6 @@ Built Python/Django backend modules for enterprise PAM product
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav362k05&theme=tokyonight&hide_border=true" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranav362k05&color=0077B5"/>
-</p>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=A66CFF&lines=Thanks+for+visiting!+✌️;:)" />
 </h3>
