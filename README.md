@@ -222,6 +222,11 @@ Built Python/Django backend modules for enterprise PAM product
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav362k05&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pranav362k05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=A66CFF&lines=Thanks+for+visiting!+✌️;:)" />
 </h3>
