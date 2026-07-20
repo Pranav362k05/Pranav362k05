@@ -219,7 +219,7 @@ Built Python/Django backend modules for enterprise PAM product
 ## GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav362k05&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pranav362k05&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
