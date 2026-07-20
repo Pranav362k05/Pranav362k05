@@ -191,31 +191,6 @@
   </tr>
 </table>
 
-<td width="50%">
-  <h3 align="center">Mobile Banking Backend with CI/CD</h3>
-
-  <p align="center">
-    <a href="https://github.com/Pranav362k05/Mobile-Banking-Backend-with-CI-CD">
-      <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-
-  <p>
-    Production-style mobile banking backend built with Flask featuring a complete DevOps pipeline. Automated CI/CD using Jenkins and GitHub Actions, containerized with Docker, deployed on Kubernetes, and provisioned AWS infrastructure using Terraform. Includes automated testing, Docker image builds, and reproducible cloud deployments.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  </p>
-</td>
-
 
 ## Experience <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
 
