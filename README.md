@@ -131,44 +131,6 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">End-to-End DevOps CI/CD Pipeline</h3>
-      <p align="center">
-        <a href="https://github.com/Pranav362k05/devops-virtual-lab">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        Complete infrastructure automation project implementing Infrastructure as Code with Terraform, Kubernetes container orchestration, GitHub Actions CI/CD pipelines, and Ansible configuration management. Supports automated multi-environment deployments following DevOps best practices.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Clickbait Headline Detection (NLP)</h3>
-      <p align="center">
-        <a href="https://github.com/Pranav362k05/clickbait-detection-nlp-native">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        Natural language processing application for detecting clickbait news headlines using TF-IDF feature extraction and multiple machine learning classifiers including Logistic Regression, Naive Bayes, and SVM. Includes an interactive Streamlit web interface for real-time predictions.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%">
       <h3 align="center">UniAssist – University Support Platform</h3>
       <p align="center">
         <a href="https://github.com/Pranav362k05/UniAssist-Project"">
@@ -204,6 +166,44 @@
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">End-to-End DevOps CI/CD Pipeline</h3>
+      <p align="center">
+        <a href="https://github.com/Pranav362k05/devops-virtual-lab">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Complete infrastructure automation project implementing Infrastructure as Code with Terraform, Kubernetes container orchestration, GitHub Actions CI/CD pipelines, and Ansible configuration management. Supports automated multi-environment deployments following DevOps best practices.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Clickbait Headline Detection (NLP)</h3>
+      <p align="center">
+        <a href="https://github.com/Pranav362k05/clickbait-detection-nlp-native">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Natural language processing application for detecting clickbait news headlines using TF-IDF feature extraction and multiple machine learning classifiers including Logistic Regression, Naive Bayes, and SVM. Includes an interactive Streamlit web interface for real-time predictions.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square" />
       </p>
     </td>
   </tr>
