@@ -227,8 +227,13 @@ Built Python/Django backend modules for enterprise PAM product
 
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Contribution Stats <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav362k05&theme=nightowl"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pranav362k05/Pranav362k05/output/github-contribution-grid-snake.svg" />
 </p>
@@ -237,6 +242,7 @@ Built Python/Django backend modules for enterprise PAM product
 ## GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=Pranav362k05&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" /></p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pranav362k05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
