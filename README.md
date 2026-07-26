@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pranav-krishna-y-93a910288/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav362k05)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Pranav362k05)
 [![Email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:pky20052023@gmail.com)
 [![Resume](https://img.shields.io/badge/resume-latest-green?style=plastic&label=Resume&link=https%3A%2F%2Fdeeptejd.github.io%2Fresume)](https://pranav362k05.github.io/resume/)
 
@@ -273,7 +273,7 @@ Built Python/Django backend modules for enterprise PAM product
   </a>
   
   <a href="https://github.com/Pranav362k05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
   </a>
   
   <a href="mailto:pky20052023@gmail.com">
