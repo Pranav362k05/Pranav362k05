@@ -1,7 +1,7 @@
 # Pranav Krishna Y <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="75">&nbsp;
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pranav-krishna-y-93a910288/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pranav-krishna-y)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Pranav362k05)
 [![Email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:pky20052023@gmail.com)
 [![Resume](https://img.shields.io/badge/resume-latest-green?style=plastic&label=Resume&link=https%3A%2F%2Fdeeptejd.github.io%2Fresume)](https://pranav362k05.github.io/resume/)
@@ -268,7 +268,7 @@ Built Python/Django backend modules for enterprise PAM product
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/pranav-krishna-y-93a910288/">
+  <a href="https://www.linkedin.com/in/pranav-krishna-y">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
   
