@@ -4,7 +4,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pranav-krishna-y)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Pranav362k05)
 [![Email](https://img.shields.io/badge/Email-333333?style=plastic&logo=gmail&logoColor=white)](mailto:pky20052023@gmail.com)
-[![Resume](https://img.shields.io/badge/resume-latest-green?style=plastic&label=Resume&link=https%3A%2F%2Fdeeptejd.github.io%2Fresume)](https://pranav362k05.github.io/resume/)
+[![Resume](https://img.shields.io/badge/resume--green?style=plastic&label=Resume&link=https%3A%2F%2Fdeeptejd.github.io%2Fresume)](https://pranav362k05.github.io/resume/)
 
 
 <p>
@@ -281,7 +281,7 @@ Built Python/Django backend modules for enterprise PAM product
   </a>
   
   <a href="https://pranav362k05.github.io/resume/">
-    <img src="https://img.shields.io/badge/Resume-Latest-green?style=plastic" alt="Resume">
+    <img src="https://img.shields.io/badge/Resume--green?style=plastic" alt="Resume">
   </a>
   
 </p>
